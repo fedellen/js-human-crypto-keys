@@ -7,5 +7,6 @@
         "eslint-config-moxy/addons/es-modules",
         "eslint-config-moxy/addons/browser",
         "eslint-config-moxy/addons/node"
-    ]
+    ],
+    "ignorePatterns": ["lib/", "node_modules/"]
 }
